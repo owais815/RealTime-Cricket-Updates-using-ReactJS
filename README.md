@@ -3,7 +3,7 @@
 The Real-Time Cricket Updates App is a web application that provides users with the latest cricket match details, including live scores, match status, teams, and venue information. The data is fetched from an external API and is automatically refreshed every 5 minutes, ensuring users receive up-to-date information without needing to refresh the page manually.
 
 ## Here is Demo Link
-
+[Vercel Live](https://real-time-cricket-updates-using-react-js.vercel.app/)
 ## Summary
 This app was developed as a part of a learning project to demonstrate skills in React.js, API integration, state management, and real-time data handling. The app is responsive and includes features like live search, dynamic updates, and an intuitive user interface.
 
